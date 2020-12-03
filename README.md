@@ -4,6 +4,12 @@ Due to the limits of upload size in github, the dataset needs to be downloaded f
 
 model1 folder contain the FaceAging.py which is without extra layers, which is our final version.
 
-origin contain the orginal FaceAging.py of CAAE.
+Requirement:
+tensorflow==1.7.0
+scipy==1.0.0
 
-After the 
+To train the model, please download the dataset and type the following command:
+python2 main.py
+
+
+
