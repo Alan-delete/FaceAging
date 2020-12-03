@@ -9,6 +9,7 @@ tensorflow==1.7.0
 scipy==1.0.0
 
 To train the model, please download the dataset and type the following command:
+
 python2 main.py
 
 
